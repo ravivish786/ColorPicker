@@ -1,0 +1,13 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.gb{
+    -fx-border-color: red;
+    -fx-border-width: 20;
+    -fx-background-color: white;
+    -fx-fill: black;
+}
